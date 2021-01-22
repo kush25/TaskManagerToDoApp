@@ -38,6 +38,7 @@
 <div class="container">
 <form method="post">
 
+<h2>Registrtion Forms</h2> <br/>
 <h3>User Registration</h3> <br/> <br/>
 
 <h5>Username:</h5>
